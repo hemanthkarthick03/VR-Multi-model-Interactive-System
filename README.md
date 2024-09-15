@@ -90,11 +90,4 @@ Welcome to the **5G/6G-Powered AR/VR System** repository! This project is a mult
 - **AR/VR Platforms**: Unity3D, Unreal Engine, ARCore, ARKit, Oculus SDK, HTC Vive SDK
 - **Security**: TLS, Multi-Factor Authentication, Role-Based Authorization, Network Segmentation, Firewall
 
-## 🛠️ Installation
-
-1. Clone the repository: `git clone https://github.com/your-repo.git`
-2. Navigate to the project directory: `cd your-repo`
-3. Install dependencies: `npm install` or `pip install -r requirements.txt`
-4. Start the development server: `npm start` or `python manage.py runserver`
-
 ---
